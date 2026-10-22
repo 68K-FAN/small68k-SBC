@@ -5,4 +5,5 @@ of EEPROM, and uses a PLCC version of the 68C681 DUART for two serial ports that
 34.4k baud.  The compact flash interface is based on an 82C55 PPI.  My version of the SBC
 is currently running at 28 MHz.  The on-board 74LS can be replaced with 74HC to gain a few
 extra MHz.  It uses an adaptation of the Antonakos monitor, and runs CP/M68k with sixteen
-8MB "disks" on the compact flash.  Images of the EEPROMs coming soon.
+8MB "disks" on the compact flash.  Images of the EEPROMs coming soon.  The .zip file is
+provided for fabrication of the approximately 95 x 160 mm PCB.
